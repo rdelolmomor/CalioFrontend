@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/CalioFrontend/static/js/main.a45400ff.chunk.js",
+    "main.js.map": "/CalioFrontend/static/js/main.a45400ff.chunk.js.map",
+    "runtime-main.js": "/CalioFrontend/static/js/runtime-main.3a3b47b9.js",
+    "runtime-main.js.map": "/CalioFrontend/static/js/runtime-main.3a3b47b9.js.map",
+    "static/js/2.7806bed1.chunk.js": "/CalioFrontend/static/js/2.7806bed1.chunk.js",
+    "static/js/2.7806bed1.chunk.js.map": "/CalioFrontend/static/js/2.7806bed1.chunk.js.map",
+    "index.html": "/CalioFrontend/index.html",
+    "static/js/2.7806bed1.chunk.js.LICENSE.txt": "/CalioFrontend/static/js/2.7806bed1.chunk.js.LICENSE.txt",
+    "static/media/LogoBlanco.35bc6724.png": "/CalioFrontend/static/media/LogoBlanco.35bc6724.png",
+    "static/media/LogoNegro.2397cfcb.png": "/CalioFrontend/static/media/LogoNegro.2397cfcb.png",
+    "static/media/appointed.00b95928.ogg": "/CalioFrontend/static/media/appointed.00b95928.ogg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a3b47b9.js",
+    "static/js/2.7806bed1.chunk.js",
+    "static/js/main.a45400ff.chunk.js"
+  ]
+}
